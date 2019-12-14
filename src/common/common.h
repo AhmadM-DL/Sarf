@@ -141,7 +141,7 @@ class multiply_params {
 
 static multiply_params M_ALL;
 
-static const QString databaseFileName = "../../src/database/atm_filled.sql";
+//static const QString databaseFileName = "../../database/atm_filled.sql";
 
 static const QString tag = "_bama";
 static const QString trie_path = ".stem_trie" + tag + ".dat";

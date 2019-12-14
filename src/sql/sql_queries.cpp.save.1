@@ -237,6 +237,16 @@ bool start_connection(ATMProgressIFC *p_ifc) { //and do other initializations
         return 0;
     } else {
       std::cerr << "Error opening atm db: " << (const char *) theSarf->db.lastError().text().toLatin1();
+        if (!tried_once) {
+            system("mysql --user=\"root\" --password=\"\" -e \"create database atm\"");
+            
+system(string("mysql --user=\"root\" --password=\"\" atm <\"" + databaseFileName.toStdString() + "\"").c_str());
+            tried_once = true;
+            start_connection(p_ifc);
+        } else {
+            std::cerr << "Unable to build databases. Reason: " << theSarf->db.lastError().text().toStdString() << "\n";
+            return 1;
+        }
     }
 
     return 0;
