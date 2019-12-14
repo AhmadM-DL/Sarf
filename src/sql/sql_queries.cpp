@@ -225,7 +225,7 @@ bool start_connection(ATMProgressIFC *p_ifc) { //and do other initializations
     theSarf->db.setDatabaseName("atm");
     theSarf->db.setUserName("root");
     theSarf->db.setPassword("");
-    theSarf->db.setConnectOptions("UNIX_SOCKET=/opt/lampp/var/mysql/mysql.sock");
+    //theSarf->db.setConnectOptions("UNIX_SOCKET=/opt/lampp/var/mysql/mysql.sock");
     bool ok = theSarf->db.open();
 
     if (ok) {
