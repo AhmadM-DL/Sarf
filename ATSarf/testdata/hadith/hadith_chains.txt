@@ -1,6 +1,0 @@
- CH {
-	Narrator {
-		Name 	إسماعيل 
-		}
-}
-
