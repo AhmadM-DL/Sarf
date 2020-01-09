@@ -189,7 +189,7 @@ inline unsigned int qHash(const MorphemeDiacritic &m) {
 }
 
 //used for qHash(MorphemeDiacritics)
-//template<class T>
+template<class T>
 inline unsigned int qHash(const QList<T> &m) {
     unsigned int h = 0;
 
