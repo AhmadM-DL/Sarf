@@ -36,6 +36,6 @@ ALTERNATIVE:	 يَكْتُبها
 ```
 # git clone "https://github.com/AhmadM-DL/Sarf.git"
 # cd Sarf
-# ./install.sh
+# sudo ./install.sh
 ```
 
