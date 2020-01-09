@@ -10,6 +10,7 @@ Feeding "يكتبها" to the stemmer class will return the following results.
 Results:
 
 ALTERNATIVE:	 يُكْتِبها
+
 |Morphological Type | Text | Diacritic Text | Glossary            | Part of Speech      |
 | ----------------- |:----:| :-------------:|:-------------------:|:-------------------:|
 |PREFIX:   	    | ي  |   يُ              |"he/it"              | yu/IV3MS+ |
@@ -18,6 +19,7 @@ ALTERNATIVE:	 يُكْتِبها
 
 
 ALTERNATIVE:	 يَكْتُبها
+
 |Morphological Type | Text | Diacritic Text | Glossary            | Part of Speech      |
 | ----------------- |:----:| :-------------:|:-------------------:|:-------------------:|
 |PREFIX:            |	ي|  يَ	            |"he/it"	          |ya/IV3MS+|
