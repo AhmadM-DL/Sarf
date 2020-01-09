@@ -1,2 +1,0 @@
-/usr/bin/ar cr libsarf.a  CMakeFiles/sarf.dir/stem_search.cpp.o CMakeFiles/sarf.dir/tree_search.cpp.o CMakeFiles/sarf.dir/suffix_search.cpp.o CMakeFiles/sarf.dir/prefix_search.cpp.o CMakeFiles/sarf.dir/stemmer.cpp.o
-/usr/bin/ranlib libsarf.a

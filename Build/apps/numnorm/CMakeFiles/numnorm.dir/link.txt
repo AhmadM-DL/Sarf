@@ -1,2 +1,0 @@
-/usr/bin/ar cr libnumnorm.a  CMakeFiles/numnorm.dir/number.cpp.o CMakeFiles/numnorm.dir/numsolution.cpp.o CMakeFiles/numnorm.dir/numnorm.cpp.o
-/usr/bin/ranlib libnumnorm.a

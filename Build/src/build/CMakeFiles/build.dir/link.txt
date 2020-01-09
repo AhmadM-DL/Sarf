@@ -1,2 +1,0 @@
-/usr/bin/ar cr libbuild.a  CMakeFiles/build.dir/functions.cpp.o
-/usr/bin/ranlib libbuild.a

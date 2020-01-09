@@ -1,2 +1,0 @@
-/usr/bin/ar cr liblog.a  CMakeFiles/log.dir/ATMProgressIFC.cpp.o
-/usr/bin/ranlib liblog.a
