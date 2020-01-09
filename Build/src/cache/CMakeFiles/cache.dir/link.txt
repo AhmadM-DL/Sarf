@@ -1,0 +1,2 @@
+/usr/bin/ar cr libcache.a  CMakeFiles/cache.dir/Search_by_item_locally.cpp.o CMakeFiles/cache.dir/database_info_block.cpp.o CMakeFiles/cache.dir/compatibility_rules.cpp.o
+/usr/bin/ranlib libcache.a

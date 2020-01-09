@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsarfenumerate.a  CMakeFiles/sarfenumerate.dir/tree_enumerate.cpp.o CMakeFiles/sarfenumerate.dir/prefix_enumerate.cpp.o CMakeFiles/sarfenumerate.dir/suffix_enumerate.cpp.o CMakeFiles/sarfenumerate.dir/stem_enumerate.cpp.o CMakeFiles/sarfenumerate.dir/enumerator.cpp.o
+/usr/bin/ranlib libsarfenumerate.a

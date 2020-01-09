@@ -22,7 +22,7 @@ echo "### Creating atm Database"
 mysql -u root -e "Create Database atm"
 
 echo "### Populating atm Database"
-mysql -u root -D atm < ./databse/sql_filled.sql
+mysql -u root -D atm < ./database/sql_filled.sql
 
 echo "### Done ###"
 

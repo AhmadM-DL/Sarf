@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsyn.a  CMakeFiles/syn.dir/ger.cpp.o CMakeFiles/syn.dir/gamma.cpp.o CMakeFiles/syn.dir/alpha.cpp.o CMakeFiles/syn.dir/getGloss.cpp.o
+/usr/bin/ranlib libsyn.a
