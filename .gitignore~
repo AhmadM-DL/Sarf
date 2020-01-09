@@ -13,7 +13,6 @@ moc_*.cpp
 .GenealogyPreProcessedDescriptions
 .HadithPreProcessedDescriptions
 .chainOutput
-/Build
 ATSarf/bin/diacriticrules
 ATSarf/bin/ex0
 ATSarf/bin/ex1
